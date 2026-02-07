@@ -1,6 +1,7 @@
 UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have been building in it ever since. 
 
 Current Projects:
+- polymarket sports and crypto market maker bot.
 - InvestInsight - Track Web3, Stocks & Shares and property assets all in one place, with a social aspect.
 - Decentratech - Various Web3 dApps.
 - Utmost Utopia - Car Dealership
@@ -25,19 +26,3 @@ Past Projects:
 - - ElbowSpace - Platform making site building easy for Student Unions across the UK.
 - - Shoo Social Media - Marketing company offering services to businesses across the UK.
 - - TriTech - Working on the Suicide Prevention UK site for charity.
-- - CSGORoyale - CS:GO Skins Gambling Site with roulette.
-- - CSGO-Pixels - CS:GO Skins Gambling site with roulette, coinflip & jackpot.
-- - CSGOBucks - CS:GO Skins Gambling site with roulette & jackpot.
-
-Qualifications:
-- Diploma of Higher Education Computer Science - Leeds Trinity University
-- BTEC Level 3 Extended Diploma Computer Science - Runshaw College
-
-Certifications:
-- Foundational Cloud Practitioner - Amazon Web Services
-
-Awards:
-- Social Media Chief Technology Officer of the Year 2024 - CEO Monthly
-
-
-Currently open to remote roles.
