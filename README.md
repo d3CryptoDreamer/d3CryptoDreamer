@@ -1,4 +1,4 @@
-UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have been building in it ever since. 
+AI-Blockchain-based Full Stack Developer, involved in the Cryptosphere since 2013 and have been building in it ever since. 
 
 Current Projects:
 - polymarket sports and crypto market maker bot.
